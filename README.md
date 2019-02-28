@@ -1,5 +1,5 @@
 #  Aplicación Usando 2 Plantillas (Layouts)
-_ Pequeña Aplicación de Ejemplo usando 2 plantillas con versiones diferentes de Bootstrap
+_Pequeña Aplicación de Ejemplo usando 2 plantillas con versiones diferentes de Bootstrap
 
 
 ## LAYOUT 1 CON BOOTSTRAP 3
