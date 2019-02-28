@@ -1,4 +1,4 @@
-#  Aplicación Usando 2 Plantillas (Layouts)
+#  Ejempo Usando 2 Plantillas (Layouts)
 _Pequeña Aplicación de Ejemplo usando 2 plantillas con versiones diferentes de Bootstrap
 
 
